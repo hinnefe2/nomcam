@@ -1,0 +1,2 @@
+# nomcam
+Squirrel detector
